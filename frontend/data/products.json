@@ -3,26 +3,26 @@
     {
       "id": 1,
       "title": "Moletom",
-      "price": 99,
-      "image": "/jacket01.png"
+      "price": 99.00,
+      "image": "https://s3-alpha-sig.figma.com/img/d0a9/bef7/53a1a9ae525d8f397593c103f1732512?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HYDD-2p3HrV2PZMmhZKTOgVHQggjpZfxlHZEGf0X9zoad2aiyZIM9wiliM1vfMTw8DBm61~usfzUi0P68yzfr5EGOYaXBPYuYupO79iujpVc5LD3UxzgYbwyVnBT0gNbZVUIIWvI8Vg97d9XlGHEW9yUkAmzuKw8q-BAdTf1cIGmFLLJyXWsyiWdJ1Kn2uWeXCtUG7Gua4nIBXyxAhPYWmIg2QcZydfkS3R9LV3oKOLOLpJEOEOtr2CIjZBFCEGjzUDxLgvTY7C0QbybPTkKfYrc4RpHilFBYj13KMogp2d2IU71Ia~La1Ue33uORmwWD397XdlQLhnhGw0j5mKPow__"
     },
     {
       "id": 2,
       "title": "Jaqueta Inverno",
       "price": 149,
-      "image": "/jacket02.png"
+      "image": "https://s3-alpha-sig.figma.com/img/dc52/02aa/7397882476c8125ebeeedd298de18e30?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=VCyPkr-AqUwJm75Lna~uTxAPMyq0z093yDSA-VbEzvQb~ZDraxbURBqlOdmUNaELU9ZKpKHOPSBi2TZ8dHdIFiz6SBbJg02bhrBQlOs7ELfDQGl~CFHjTKNRLr8jJFjbo6K6NlH1rr6EeVcPo1vtfsVZqlJqRG4vnA3Q7Raon2VTA09miMVr7IdvIJvUrZAt3kt6ryQylgfJ5LJa6YzcACS9~TLbpHhRCJqddZY7cleI2YxxKJy-ziO9FjeiFIZxSKDkBVrrdgR2Mv5rMO-1bYVkjAaEGlGKHV~~9iNSifUDevPYWTg3uMylAAw7AFF76eZVACfumTTQey-Uao7HqA__"
     },
     {
       "id": 3,
       "title": "Jaqueta Vermelha",
       "price": 129,
-      "image": "/jacket03.png"
+      "image": "https://s3-alpha-sig.figma.com/img/5897/168d/91355fa1cc41abdc8ac6fb92c96e3706?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=c~YYAyq4Awmsqf5oUQHC-riDR-LrX67~LhP~~bGWkhqmtjHgrRlXnc110T00VbDPKZ-0nYhGtKLhSqVDZ1nMnOelcABWz-SbG4stbP4Vb9ixVB1lqkgVsr0bIMAdoaHADohH1m45g~U19Fp~VduL~0qBLpB276FJ8fty9ZdmcX90sIj42FdrG0cQlr~2xkCLC9sxFpp5hUEuGwJbKhASPxIhutN2glHoX9NrFyShN6c8bwsetrTese9qgN7s~ORor-H7wVpZpZt9kq-R7QWiVOuH~bVdv8vBZO1Tin6ywcs0aq8GABXc5APCVoSUlG~I2DKuxA3aezWGdXzkdUAdSA__"
     },
     {
       "id": 4,
       "title": "Jaqueta Preta",
       "price": 189,
-      "image": "/jacket04.png"
+      "image": "https://s3-alpha-sig.figma.com/img/ea09/a94b/c587c0ee60c684d29568d2dfaee4d352?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NaL8aGr5xirzF0lVfnxk2TJckExqsA8HX~RzRHpW6ZNYh25ttq8-orA4Sk2eTyEtd7U94nGyMFvZ3pRhQLGic239hdcze7TqjVrCcxK~zM5P116~fki3Or8bbMNsD2gv2Igez4RuKOPfrwb6JdVUm4UdIB2tjkodlvZVAxfWjy-ZW9mrObY8-FUz6dxse2Prb74drJX2i3XwlERLgwghV4krxuhZ71d5xBfEadhQ4WBASgWsrPyLz5bsdD5f~DybmycJhcBrCqIag78e~cKfpJ4g0EJYAogjECfaeRE42OZrbBWEG26daw64ilNjZFrvIZI~oupJzyakw7kywUHLXg__"
     }
   ]
 }

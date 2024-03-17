@@ -1,5 +1,6 @@
 import { useContext } from "react";
 import { CartContext } from "./Context/cartContext";
+import './styles/product_list.css'
 
 const Product_List = ({products}) => {
 
@@ -10,9 +11,9 @@ const Product_List = ({products}) => {
             {products.map((product) => (
             <div className='product_preview' key={product.id}>
                 <img src={product.image}></img>
-                <div className='produtct_description'> 
+                <div className='product_description'> 
                     <p>{product.title}</p>
-                    <button onClick={() => cartAddItem(product)}>{product.price}</button>
+                    <button onClick={() => cartAddItem(product)}>R${product.price}</button>
                 </div>
             </div>
             ))}

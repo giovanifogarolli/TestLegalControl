@@ -1,0 +1,31 @@
+.navbarc_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.cart_navbar{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: self-end;
+    margin: 20px 320px;
+    gap: 30px;
+}
+
+.cart_navbar a{
+    color: #67E8F9;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.cart_navbar button{
+    color: red;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.cart_container{
+    display: flex;
+    justify-content: center;
+}
